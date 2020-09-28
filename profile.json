@@ -1,15 +1,15 @@
 {
 	"basics": {
-		"name": "Kishore",
-		"label": "Architect",
+		"name": "Ariel Álvarez",
+		"label": "Web Developer",
 		"picture": "profile.jpg",
-		"email": "prakis@gmail.com",
-		"phone": "(912) 98765-4321",
+		"email": "ariel0196@gmail.com",
+		"phone": "",
 		"website": "https://reactdude.com/",
 		"twitter": "https://twitter.com/prakis",
 		"facebook": "https://www.facebook.com/Stringify.me",
 		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"summary": "I am a computer science student currently working as a consultant and web developer (<b>Laravel</b>, <b>VueJS</b>, <b>NodeJS</b) apps. I have 5+ years experience in software development."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
