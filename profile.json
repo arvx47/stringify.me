@@ -1,15 +1,14 @@
 {
 	"basics": {
 		"name": "Ariel Álvarez",
-		"label": "Web Developer",
+		"label": "Software Engineer",
 		"picture": "profile.jpg",
 		"email": "ariel0196@gmail.com",
 		"phone": "",
 		"website": "https://stringify.me/arvx47",
 		"twitter": "https://twitter.com/arvx47",
-		"facebook": "https://www.facebook.com/arvx47",
 		"github": "http://github.com/arvx47",
-		"summary": "I am a computer science student, web developer (<b>Laravel</b>, <b>VueJS</b>, <b>NodeJS</b>) and IT technician. I have 5+ years of experience in software development."
+		"summary": "Software Engineer with 5+ years of experience. <b>Salesforce (8 Certs.)</b>, <b>Laravel</b>, <b>VueJS</b>, <b>TypeScript</b>, <b>React</b>, <b>Nodejs</b>"
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
